@@ -1,2 +1,2 @@
-### Online Marketplace DB application - Team Stone
+# Online Marketplace DB application - Team Stone
 
