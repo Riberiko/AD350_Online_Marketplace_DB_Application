@@ -1,2 +1,2 @@
-# CPUScheduler_stub
-Stub for CPU Scheduler project
+### Online Marketplace DB application - Team Stone
+
